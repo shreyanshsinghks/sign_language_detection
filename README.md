@@ -1,6 +1,5 @@
 # ASL Detection System using YOLOv5 🤟
 
-![ASL Detection](images/asl_detection.png)
 
 Welcome to the American Sign Language (ASL) Detection project! This project leverages the power of YOLOv5, a renowned object detection model, to detect and translate ASL signs into text, thereby enhancing communication accessibility and inclusivity. 
 
@@ -40,10 +39,6 @@ ASL is a beautiful and expressive language used by the Deaf and Hard of Hearing 
 To get started with the ASL Detection system, follow these steps:
 
 1. Clone this repository to your local machine:
-
-   ```shell
-   git clone https://github.com/yourusername/asl-detection.git
-   ```
 
 2. Install the necessary dependencies:
 
